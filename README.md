@@ -185,13 +185,15 @@ The developed pipeline successfully achieved its baseline design goals, though e
 
 ### Team Members
 
-- **Manav Kumar Deo**
-  - **Institution:** IIT (BHU) Varanasi
-  - **GitHub:** https://github.com/MANAVhbm
 
 - **Krishnil Rishianand Shindore** *(Repository Author)*
   - **Institution:** IIT (BHU) Varanasi
   - **GitHub:** https://github.com/krishnilX08
+
+- **Manav Kumar Deo**
+  - **Institution:** IIT (BHU) Varanasi
+  - **GitHub:** https://github.com/MANAVhbm
+
 
 - **Varshith Bala**
   - **Institution:** IIT (BHU) Varanasi
