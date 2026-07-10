@@ -194,6 +194,6 @@ The developed pipeline successfully achieved its baseline design goals, though e
   - **GitHub:** https://github.com/krishnilX08
 
 - **Varshith Bala**
-- **Institution:** IIT (BHU) Varanasi
-- **GitHub:**
+  - **Institution:** IIT (BHU) Varanasi
+  - **GitHub:**
 
